@@ -1,14 +1,30 @@
-# Habilidades
-Tema: Implementação de uma api de receitas de comidas e bebidas em uma aplicação react
+# Project recipes app
 
-Habilidades testadas neste projeto:
+# Contexto
+Implementação de uma api de receitas de comidas e bebidas em uma aplicação react.
 
-  - Utilizar _Redux_ para gerenciar estado
-  - Utilizar a biblioteca _React-Redux_
-  - Utilizar a Context API do _React_ para gerenciar estado
-  - Utilizar o _React Hook useState_
-  - Utilizar o _React Hook useContext_
-  - Utilizar o _React Hook useEffect_
-  - Criar Hooks customizados
+## Técnologias usadas
 
----
+Front-end:
+> Desenvolvido usando: React, Redux, CSS3, HTML5, useState, useContext, useEffect, ES6, Bootstrap, React-router-dom, Axios.
+
+## Instalando Dependências
+
+> Frontend
+* Entre na pasta:
+```bash
+cd Project recipes app/
+``` 
+* Instalando as dependências:
+```bash
+npm install
+``` 
+* Para rodar o projeto:
+
+
+## Executando aplicação
+* Para rodar o front-end:
+
+``` bash
+npm run start
+``` 
